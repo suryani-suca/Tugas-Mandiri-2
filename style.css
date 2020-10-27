@@ -1,0 +1,27 @@
+body {
+  background-color: #f0a500;
+  font-family: "Roboto", sans-serif;
+  color: black;
+}
+
+.topnav {
+  margin: 20px;
+}
+
+.topnav a {
+  text-decoration: none;
+  padding-right: 20px;
+  font-size: 25px;
+  color: black;
+}
+.content {
+  display: flex;
+  margin: 20px;
+  letter-spacing: 1px;
+}
+.content img {
+  margin-right: 20px;
+}
+.content p {
+  margin-bottom: 0;
+}
